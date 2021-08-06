@@ -1,0 +1,16 @@
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\bin\Debug\net5.0\CSharpStudyDemo.exe
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\bin\Debug\net5.0\CSharpStudyDemo.deps.json
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\bin\Debug\net5.0\CSharpStudyDemo.runtimeconfig.json
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\bin\Debug\net5.0\CSharpStudyDemo.runtimeconfig.dev.json
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\bin\Debug\net5.0\CSharpStudyDemo.dll
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\bin\Debug\net5.0\ref\CSharpStudyDemo.dll
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\bin\Debug\net5.0\CSharpStudyDemo.pdb
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\obj\Debug\net5.0\CSharpStudyDemo.csproj.AssemblyReference.cache
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\obj\Debug\net5.0\CSharpStudyDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\obj\Debug\net5.0\CSharpStudyDemo.AssemblyInfoInputs.cache
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\obj\Debug\net5.0\CSharpStudyDemo.AssemblyInfo.cs
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\obj\Debug\net5.0\CSharpStudyDemo.csproj.CoreCompileInputs.cache
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\obj\Debug\net5.0\CSharpStudyDemo.dll
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\obj\Debug\net5.0\ref\CSharpStudyDemo.dll
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\obj\Debug\net5.0\CSharpStudyDemo.pdb
+D:\LocalWorkSpace\C#\Workspace\CSharpStudy\CSharpStudy\CSharpStudyDemo\obj\Debug\net5.0\CSharpStudyDemo.genruntimeconfig.cache

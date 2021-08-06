@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSharpStudyDemo/1.0.0": {
+        "runtime": {
+          "CSharpStudyDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpStudyDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
